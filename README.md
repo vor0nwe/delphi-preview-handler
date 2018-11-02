@@ -3,6 +3,12 @@ The **Delphi Preview Handler**, is a [preview handler](http://msdn.microsoft.com
 for Windows Vista, 7, 8 and 10 which allows you to read your source code with syntax highlighting 
 without having to open it in an editor.
 
+### Features ###
+* Supports Windows Vista, 7, 8 and 10 on 32 and 64 bits.
+* +50 syntax highlight themes.
+* +60 source code extensions supported.
+* Themes compatibles with the [Delphi IDE Theme Editor](https://github.com/RRUZ/delphi-ide-theme-editor)
+
 This preview handler can render the following file extensions:
 
 Extensions | Description| Preview
@@ -33,17 +39,6 @@ Extensions | Description| Preview
 .iss | Inno Setup Scripts | [![](https://dl.dropboxusercontent.com/u/12733424/Blog/Delphi%20Preview%20Handler/Images/Inno-Sample%20Files.png)](https://dl.dropboxusercontent.com/u/12733424/Blog/Delphi%20Preview%20Handler/Images/Inno-Sample%20Files.png)
 .ini | INI files | .
 
-
-
-[![](https://dl.dropboxusercontent.com/u/12733424/Images/followrruz.png)](https://twitter.com/RRUZ)
-
-### Features ###
-* Supports Windows Vista, 7, 8 and 10 on 32 and 64 bits.
-* +50 syntax highlight themes.
-* +60 source code extensions supported.
-* Themes compatibles with the [Delphi IDE Theme Editor](https://github.com/RRUZ/delphi-ide-theme-editor)
-
-
 ### Important Note about installing a new version ###
 In order to avoid problems you must follow these steps when you install or register a new 
 version of the preview handler.
@@ -59,7 +54,4 @@ version of the preview handler.
   4. Now proceed with the installation of the new version.
 
 
-### Installer ###
-
-[![](https://dl.dropboxusercontent.com/u/12733424/github/buttons/DownloadSite1.png)](http://goo.gl/e3qqnr)
-[![](https://dl.dropboxusercontent.com/u/12733424/github/buttons/DownloadSite2.png)](https://drive.google.com/file/d/0B7KzPH8HQCZNZkpQUHlWU1lCQVU/view?usp=sharing)
+Looking for the installer? Check the [Release Area](https://github.com/RRUZ/delphi-preview-handler/releases/latest) 
